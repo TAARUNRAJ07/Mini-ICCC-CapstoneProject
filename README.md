@@ -1,4 +1,7 @@
 # 📡 **Mini-ICCC: AI-Powered Smart City Coordination System**
+<p align="center">
+  <img src="docs/thumbnail.png" alt="Thumbnail" width = "500"/>
+</p>
 
 ### Real-Time Multi-Agent Emergency Coordination for Smart Cities
 
@@ -24,9 +27,6 @@ India’s Smart Cities depend on ICCCs, but:
 **Enable automated, real-time, multi-department decision making without manual delays.**
 
 ---
-<p align="center">
-  <img src="docs/thumbnail.png" alt="Thumbnail" width="400"/>
-</p>
 
 # 💡 **2. Mini-ICCC Solution**
 
