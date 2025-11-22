@@ -1,0 +1,28 @@
+{
+  "placeholderImages": [
+    {
+      "id": "cctv1",
+      "description": "A blurry night vision view of a city street.",
+      "imageUrl": "https://images.unsplash.com/photo-1683821787637-20a8afa14975?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjY3R2JTIwc3RyZWV0fGVufDB8fHx8MTc2MzQ0NDcyNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cctv street"
+    },
+    {
+      "id": "cctv2",
+      "description": "Daytime view of a busy intersection.",
+      "imageUrl": "https://images.unsplash.com/photo-1623173651777-e013ac17e563?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx0cmFmZmljJTIwaW50ZXJzZWN0aW9ufGVufDB8fHx8MTc2MzQ0NDcyNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "traffic intersection"
+    },
+    {
+      "id": "cctv3",
+      "description": "View of a public park with people walking.",
+      "imageUrl": "https://images.unsplash.com/photo-1629735053270-f674b9359fe1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxwdWJsaWMlMjBwYXJrfGVufDB8fHx8MTc2MzM0MDc4NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "public park"
+    },
+    {
+      "id": "cctv4",
+      "description": "Static image of a building entrance.",
+      "imageUrl": "https://images.unsplash.com/photo-1649470404192-42cb092fd8ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxidWlsZGluZyUyMGVudHJhbmNlfGVufDB8fHx8MTc2MzM2MzYwMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "building entrance"
+    }
+  ]
+}
